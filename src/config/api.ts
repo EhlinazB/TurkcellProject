@@ -1,0 +1,1 @@
+export const ECOMMERCE_API_URL = "https://northwind.vercel.app/api/"
